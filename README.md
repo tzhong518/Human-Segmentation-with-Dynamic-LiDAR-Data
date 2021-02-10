@@ -12,7 +12,7 @@ Keras 2.2.4
 ### Install
 git clone https://github.com/tzhong518/Human-Segmentation-with-Dynamic-LiDAR-Data
 ### Data preparation
-Please download data from [dynamic LiDAR data](https://github.com/Likarian/AutomaticLabeledLiDARSequence).
+Please download data from [Learning-Based Human Segmentation and Velocity Estimation Using Automatic Labeled LiDAR Sequence for Training](https://github.com/Likarian/AutomaticLabeledLiDARSequence).
 
 You can download weight of 4-frame model from [here](https://drive.google.com/file/d/1w4ZfrfCbxWB7x1gjPsdiD3Y_1Rg-YaeN/view?usp=sharing)
 ### Train and test
