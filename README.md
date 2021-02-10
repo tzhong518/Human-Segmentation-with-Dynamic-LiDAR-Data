@@ -3,6 +3,7 @@ Sample code for Human Segmentation with Dynamic LiDAR Data.
 
 ## Introduction
 This is the official code of [Human Segmentation with Dynamic LiDAR Data](https://arxiv.org/abs/2010.08092).
+![image](https://github.com/tzhong518/Human-Segmentation-with-Dynamic-LiDAR-Data/blob/main/figures/structure.png)
 
 ## Requirement
 Keras 2.2.4
